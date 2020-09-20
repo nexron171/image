@@ -161,3 +161,5 @@ export 'src/bitmap_font.dart';
 export 'src/color.dart';
 export 'src/image.dart';
 export 'src/image_exception.dart';
+export 'src/exif_data.dart';
+
